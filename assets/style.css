@@ -95,6 +95,7 @@ nav a:hover {
 .main-p {
     display: flex;
     padding: 20px;  
+    width: 85%;
 }
 
 .main-p p {
@@ -104,4 +105,116 @@ nav a:hover {
    margin-bottom: 25px;
    margin-left: 20px;
 }
+
+/* My Work section */
+.my-work {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    
+}
+
+.mywork-header {
+    width: 25%;
+}
+
+.mywork-header h2 {
+    font-size: 35px;
+    text-align: end;
+    padding-right: 15px;
+}
+
+.show {
+    width: 85%;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.show img {
+    height: auto;
+    width: 420px;
+    border: 3px solid #7de4c1;
+}
+
+.homework1 img {
+    width: 100%;
+    flex-basis: 100%;
+}
+
+.homework1 {
+    position: relative; 
+    flex-basis: 100%; 
+}
+
+.prework,
+.my-portfolio,
+.future1,
+.future2 {
+    position: relative; 
+}
+
+.same-width {
+    flex-basis: 50%;
+}
+
+.work1 {
+    position:absolute;
+    bottom: 120px;
+    background-color: #7de4c1;
+    padding: 22px 16px;
+    color: white;
+    font-size: 20px;
+    width: 20%;
+    text-align: center;
+}
+.work2 {
+    position: absolute;
+    bottom: 120px;
+    background-color: #7de4c1;
+    padding: 22px 16px;
+    color: white;
+    font-size: 20px;
+    width: 40%;
+    text-align: center;
+}
+
+.work3 {
+    position: absolute;
+    bottom: 120px;
+    background-color: #7de4c1;
+    padding: 22px 16px;
+    color: white;
+    font-size: 20px;
+    width: 35%;
+    text-align: center;
+}
+
+.work4 {
+    position: absolute;
+    bottom: 120px;
+    background-color: #7de4c1;
+    padding: 22px 16px;
+    color: white;
+    font-size: 20px;
+    width: 35%;
+    text-align: center;
+}
+
+.work5 {
+    position: absolute;
+    bottom: 120px;
+    background-color: #7de4c1;
+    padding: 22px 16px;
+    color: white;
+    font-size: 20px;
+    width: 35%;
+    text-align: center;
+}
+
+.show img:hover {
+    border-color: #b30d0d;
+
+}
+
 
