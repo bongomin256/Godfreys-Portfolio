@@ -59,3 +59,49 @@ nav a:hover {
     text-decoration: underline;
     font-size: 20px;
 }
+
+/* My Photo*/
+
+.my-photo {
+    height: 200px;
+    width: 200px;
+    border: 2px solid #030303;
+    border-radius: 100%;
+}
+
+/* About me section */
+.about {
+    /*background-color: lightgrey;*/
+    display: flex;
+    padding: 30px; 
+    justify-content: space-between;  
+ }
+
+ .about-header {
+    width: 25%;
+}
+.about-header h2 {
+    font-size: 35px;
+    text-align: end;
+    padding-right: 15px;
+}
+
+#verticle-line {
+    width: 6px;
+    height:auto;
+    background-color: black;
+}
+
+.main-p {
+    display: flex;
+    padding: 20px;  
+}
+
+.main-p p {
+   letter-spacing: 1px;
+   line-height: 28px;
+   font-size: 17px;
+   margin-bottom: 25px;
+   margin-left: 20px;
+}
+
