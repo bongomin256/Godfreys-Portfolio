@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header section*/
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2%;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 250%;
+    cursor: pointer;
+}
+
+span {
+    color: red;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+ }
+
+ nav ul li {
+     list-style: none;
+     font-size: 150%;
+     padding: 10px 25px;  
+ }
+
+nav a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: red;
+}
