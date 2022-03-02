@@ -46,3 +46,16 @@ nav a {
 nav a:hover {
     color: red;
 }
+
+/* subtitle scetion */
+
+.subtitle {
+    background-image: url(./images/bongomin256.github.io_prework-about-me_.png);
+    padding: 50px;
+    color: white;
+    font-style: italic;
+    justify-content: flex-end;  
+    display: flex;
+    text-decoration: underline;
+    font-size: 20px;
+}
