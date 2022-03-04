@@ -3,9 +3,13 @@
 This is the second homework of the UW coding Bootcamp. The purpose of the homework is to design my portfolio that will showcase my skills and talents to employers looking to fill a part-time or full-time position.
 
 # Screenshot of the Portfolio
-![Portfolio webpage](/assets/images/bongomin256.github.io_Godfreys-Portfolio_ (2).png)
 
-# Languages Used
-I used HTML and CSS to come built this webpage
+![Portfolio-webpage](/assets/images/screenshot.png)
+
+#  Web Languages Used
+
+- HTML to come up with the framework.
+- CSS to style up the webpage.
 # Link.
-This is the link to deploy the application:https://bongomin256.github.io/Godfreys-Portfolio/
+- The link to deploy the application: https://bongomin256.github.io/Godfreys-Portfolio/
+- The link to the repo: https://github.com/bongomin256/Godfreys-Portfolio
