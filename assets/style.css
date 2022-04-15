@@ -232,6 +232,10 @@ nav a:hover {
     color: white;
 }
 
+.contact-detail a:hover {
+    cursor: pointer;
+    color: #64ffda;
+}
 /* Setting the width to let it be responsive in larger smart phone*/
 @media screen and (max-width: 768px) {
     header,

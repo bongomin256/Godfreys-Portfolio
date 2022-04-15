@@ -5,6 +5,8 @@ This is the second homework of the UW coding Bootcamp. The purpose of the homewo
 # Screenshot of the Portfolio
 
 ![Portfolio-webpage](/assets/images/screenshot.png)
+![Portfolio-webpage](/assets/images/myPort.png)
+![Portfolio-webpage](/assets/images/My_Portfolio.png)
 
 # Technologies Used
 
@@ -15,3 +17,7 @@ This is the second homework of the UW coding Bootcamp. The purpose of the homewo
 
 - The link to deploy the application: https://bongomin256.github.io/Godfreys-Portfolio/
 - The link to the repo: https://github.com/bongomin256/Godfreys-Portfolio
+
+# License
+
+- MIT
