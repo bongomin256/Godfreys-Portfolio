@@ -186,6 +186,11 @@ nav a:hover {
     background-color: #64ffda;
 }
 
+.show-text:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
 .show-text h5{
     font-size: 20px;
 }
