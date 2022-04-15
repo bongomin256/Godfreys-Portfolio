@@ -6,10 +6,12 @@ This is the second homework of the UW coding Bootcamp. The purpose of the homewo
 
 ![Portfolio-webpage](/assets/images/screenshot.png)
 
-#  Web Languages Used
+# Technologies Used
 
-- HTML to come up with the framework.
-- CSS to style up the webpage.
+- HTML.
+- CSS.
+
 # Link.
+
 - The link to deploy the application: https://bongomin256.github.io/Godfreys-Portfolio/
 - The link to the repo: https://github.com/bongomin256/Godfreys-Portfolio
