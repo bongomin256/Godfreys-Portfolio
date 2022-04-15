@@ -163,6 +163,12 @@ nav a:hover {
     transition: 0.3s;
 }
 
+.container:hover {
+    box-shadow: 0 6px 12px grey;
+    opacity: 1;  
+}
+
+
 .container img {
     width: 100%;   
 }
@@ -183,13 +189,6 @@ nav a:hover {
 .show-text h5{
     font-size: 20px;
 }
-
-.container:hover {
-    box-shadow: 0 6px 12px grey;
-    opacity: 1;
-    
-}
-
 
 /* The section about to Contact Me */
 .contact-me {
