@@ -114,8 +114,7 @@ nav a:hover {
 .main-p {
     display: flex;
     padding: 20px;  
-    width: 75%;
-    
+    width: 75%;  
 }
 
 .main-p p {
@@ -305,6 +304,10 @@ nav a:hover {
 
 .my-work {
    padding-top: 0px;
+}
+
+.container {
+    opacity: 1;
 }
 
 }
