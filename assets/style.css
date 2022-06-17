@@ -36,13 +36,14 @@ nav ul {
 
  nav ul li {
      list-style: none;
-     font-size: 150%;
+     /* font-size: 150%; */
+     font-size: 16px;
      padding: 10px 25px;  
  }
 
 nav a {
     color: white;
-    font-weight: bold;
+    /* font-weight: bold; */
     text-decoration: none;
 }
 
@@ -55,6 +56,7 @@ nav a:hover {
     border: 1px solid red;
     border-radius: 5px;
     padding: 10px;
+    transition: 0.3s;
 }
 
 #resume:hover {
@@ -101,7 +103,8 @@ nav a:hover {
 
 }
 .about-header h2 {
-    font-size: 35px;
+    font-size: 24px;
+    /* font-size: 35px; */
   
 }
 
@@ -139,7 +142,8 @@ nav a:hover {
 }
 
 .mywork-header h2 {
-    font-size: 35px;
+    /* font-size: 35px; */
+    font-size: 24px;
     text-align: end;
     padding-right: 15px;
 }
@@ -213,7 +217,8 @@ nav a:hover {
 }
 
 .contact-header h2 {
-    font-size: 35px;
+    /* font-size: 35px; */
+    font-size: 24px;
     text-align: end;
     padding-right: 15px; 
 }
@@ -226,9 +231,14 @@ nav a:hover {
 }
 
 .contact-detail p {
-    font-size: 25px;
-    text-decoration: underline;
-    text-underline-offset: 20%;
+    font-size: 24px;
+    /* text-decoration: underline; */
+    /* text-underline-offset: 20%; */
+}
+
+#phone-no {
+    font-size: 16px;
+    color: white;
 }
 
 .contact-detail a {
@@ -249,7 +259,7 @@ nav a:hover {
     .my-work,
     .contact-me,
     .contact-header,
-    .contact-detail,
+    /* .contact-detail, */
     .show, 
     .main-p {
       flex-direction: column;
@@ -271,7 +281,21 @@ nav a:hover {
 .my-work {
    padding-top: 0px;
 }
+ /* .about-header h2,
+ .mywork-header h2 {
+     flex-wrap: nowrap;
+ } */
 
+ #con-nowrap {
+     color: red;
+ }
+ #about-nowrap,
+ #work-nowrap,
+ #con-nowrap {
+     display: inline-flex;
+     flex-wrap: nowrap;
+     /* flex-direction: row; */
+ }
 }
 
 /* Setting the Max-width to let it be responsive in smaller smart phone*/
@@ -279,10 +303,10 @@ nav a:hover {
     header,
     nav ul,
     .subtitle,
-    .about,
-    .my-work,
-    .contact-me,
-    .contact-header,
+    /* .about, */
+    /* .my-work, */
+    /* .contact-me, */
+    /* .contact-header, */
     .contact-detail,
     .show, 
     .main-p {
@@ -309,7 +333,24 @@ nav a:hover {
 .container {
     opacity: 1;
 }
+ #con-nowrap {
+     color: red;
+ }
 
+#about-nowrap,
+#work-nowrap,
+#con-nowrap {
+    display: inline-block;
+   /* flex-wrap: nowrap;
+   flex-direction: row; */
+}
+/* .contact-me h2 {
+    flex-direction: row;
+}
+.about-header h2,
+.mywork-header h2 {
+    flex-wrap: nowrap;
+} */
 }
 
 
