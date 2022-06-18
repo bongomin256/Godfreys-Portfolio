@@ -5,7 +5,7 @@ This is the second homework of the UW coding Bootcamp. The purpose of the homewo
 # Screenshot of the Portfolio
 
 ![Portfolio-webpage](/assets/images/bongomin256portfolio.png)
-![Portfolio-webpage](/assets/images/My_Portfolio.png)
+![Portfolio-webpage](/assets/images/bongomin256portfolioheader.png)
 
 # Technologies Used
 
