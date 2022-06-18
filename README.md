@@ -1,6 +1,8 @@
 # Godfreys-Portfolio
 
-This is the second homework of the UW coding Bootcamp. The purpose of the homework is to design my portfolio that will showcase my skills and talents to employers looking to fill a part-time or full-time position.
+<!-- This is the second homework of the UW coding Bootcamp. The purpose of the homework is to design my portfolio that will showcase my skills and talents to employers looking to fill a part-time or full-time position. -->
+
+This is my portolio webpage. it is designed using HTML and CSS web languages.
 
 # Screenshot of the Portfolio
 
